@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PreferencesFramework</string>
+
+    <string name="config">Configuração</string>
+    <string name="mapas">Mapas</string>
+    <string name="medida">Unidades de Medida</string>
+    <string name="distancia">Distância</string>
+    <string name="desc_distancia">Definir a unidade de medida para distância</string>
+    <string name="visualizacao">Visualização</string>
+    <string name="satelite">Imagens de Satélite</string>
+
+    <string-array name="medidas">
+        <item>Metros</item>
+        <item>Milhas</item>
+    </string-array>
+
+    <string-array name="valor_medidas">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
